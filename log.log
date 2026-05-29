@@ -1,0 +1,137 @@
+05-28 16:53:32.575 D/ResourcesManager( 4923): createResourcesForActivityLocked resourcesKey = ResourcesKey{ mHash=f724a46e mResDir=/data/app/~~bz_MGZFR7C4QPPzUNI_t7w==/com.sr.openbyd-OrNxA1XqZH36WSUkFewhUg==/base.apk mSplitDirs=[] mOverlayDirs=[/data/resource-cache/com.android.systemui-neutral-fa4U.frro,/data/resource-cache/com.android.systemui-accent-vamN.frro] mLibDirs=[] mDisplayId=0 mOverrideConfig=mcc250-mnc1-en-rUS-ldltr-sw720dp-w1280dp-h604dp-large-long-notround-nowidecg-highdr-land-night-hdpi-finger-keysexposed-nokeys-navhidden-nonav-v32 mCompatInfo={240dpi always-compat} mLoaders=[]} compatInfo.needsCompatResources() false
+05-28 16:53:32.588 D/ResourcesManager( 4923): createResourcesForActivityLocked resourcesKey = ResourcesKey{ mHash=aee22b6d mResDir=/data/app/~~bz_MGZFR7C4QPPzUNI_t7w==/com.sr.openbyd-OrNxA1XqZH36WSUkFewhUg==/base.apk mSplitDirs=[] mOverlayDirs=[/data/resource-cache/com.android.systemui-neutral-fa4U.frro,/data/resource-cache/com.android.systemui-accent-vamN.frro] mLibDirs=[] mDisplayId=0 mOverrideConfig=mcc250-mnc1-en-ldltr-sw720dp-w1280dp-h604dp-large-long-notround-nowidecg-highdr-land-night-hdpi-finger-keysexposed-nokeys-navhidden-nonav-v32 mCompatInfo={240dpi always-compat} mLoaders=[]} compatInfo.needsCompatResources() false
+05-28 16:53:32.846 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@a34a541[MainActivity] of com.sr.openbyd
+05-28 16:53:35.133 D/ViewRootImpl[‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏debug_draw draw for:uu0{a43667a V.E...... ......ID 0,0-296,384 #1020002 android:id/content} of com.sr.openbyd
+05-28 16:53:35.904 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@a34a541[MainActivity] of com.sr.openbyd
+05-28 16:53:36.811 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@427d2a[MainActivity] of com.sr.openbyd
+05-28 16:53:38.331 D/ViewRootImpl[‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏debug_draw draw for:uu0{3232888 V.E...... ......ID 0,0-296,384 #1020002 android:id/content} of com.sr.openbyd
+05-28 16:53:39.041 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@f83995f[MainActivity] of com.sr.openbyd
+05-28 16:53:39.108 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@a34a541[MainActivity] of com.sr.openbyd
+05-28 16:53:42.126 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@f83995f[MainActivity] of com.sr.openbyd
+05-28 16:53:42.272 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@a34a541[MainActivity] of com.sr.openbyd
+05-28 16:53:42.920 D/ViewRootImpl[‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏debug_draw draw for:uu0{8f66df6 V.E...... ......ID 0,0-296,384 #1020002 android:id/content} of com.sr.openbyd
+05-28 16:53:44.824 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@9051751[MainActivity] of com.sr.openbyd
+05-28 16:53:47.662 D/ResourcesManager( 4923): createResourcesForActivityLocked resourcesKey = ResourcesKey{ mHash=210f0e13 mResDir=/data/app/~~bz_MGZFR7C4QPPzUNI_t7w==/com.sr.openbyd-OrNxA1XqZH36WSUkFewhUg==/base.apk mSplitDirs=[] mOverlayDirs=[/data/resource-cache/com.android.systemui-neutral-fa4U.frro,/data/resource-cache/com.android.systemui-accent-vamN.frro] mLibDirs=[] mDisplayId=0 mOverrideConfig=mcc250-mnc1-ru-ldltr-sw720dp-w1280dp-h604dp-large-long-notround-nowidecg-highdr-land-night-hdpi-finger-keysexposed-nokeys-navhidden-nonav-v32 mCompatInfo={240dpi always-compat} mLoaders=[]} compatInfo.needsCompatResources() false
+05-28 16:53:47.778 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@a34a541[] of com.sr.openbyd
+05-28 16:53:50.775 D/ViewRootImpl[Всплывающее окно]( 4923): debug_draw draw for:uu0{1fe3da3 V.E...... ......ID 0,0-352,384 #1020002 android:id/content} of com.sr.openbyd
+05-28 16:53:50.802 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@a34a541[] of com.sr.openbyd
+05-28 16:53:53.311 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@28686d6[MainActivity] of com.sr.openbyd
+05-28 16:53:55.928 V/ActivityThread( 4923): scheduleBindService token=android.os.BinderProxy@3cc9da8 intent=Intent { act=android.service.notification.NotificationListenerService cmp=com.sr.openbyd/.services.HudNavigationListenerService } uid=1000 pid=0
+05-28 16:53:55.945 V/ActivityThread( 4923): handleBindService s=com.sr.openbyd.services.HudNavigationListenerService@2188cf2 rebind=false
+05-28 16:53:56.402 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@28686d6[MainActivity] of com.sr.openbyd
+05-28 16:53:59.627 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@28686d6[MainActivity] of com.sr.openbyd
+05-28 16:54:06.309 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@28686d6[MainActivity] of com.sr.openbyd
+05-28 16:54:06.363 D/ViewRootImpl[Всплывающее окно]( 4923): debug_draw draw for:uu0{9acbb12 V.E...... ......ID 0,0-31,38 #1020002 android:id/content} of com.sr.openbyd
+05-28 16:54:06.564 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@a34a541[] of com.sr.openbyd
+05-28 16:54:09.444 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@28686d6[MainActivity] of com.sr.openbyd
+05-28 16:54:12.458 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@28686d6[MainActivity] of com.sr.openbyd
+05-28 16:54:13.847 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@a34a541[] of com.sr.openbyd
+05-28 16:54:15.515 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@28686d6[MainActivity] of com.sr.openbyd
+05-28 16:54:18.539 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@28686d6[MainActivity] of com.sr.openbyd
+05-28 16:54:21.101 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@a34a541[] of com.sr.openbyd
+05-28 16:54:24.102 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@a34a541[] of com.sr.openbyd
+05-28 16:54:25.851 D/ViewRootImpl[Всплывающее окно]( 4923): debug_draw draw for:uu0{aa1014 V.E...... ......ID 0,0-352,384 #1020002 android:id/content} of com.sr.openbyd
+05-28 16:54:29.502 D/ViewRootImpl[Всплывающее окно]( 4923): debug_draw draw for:uu0{aa1014 V.E...... ......ID 0,0-352,384 #1020002 android:id/content aid=1073741833} of com.sr.openbyd
+05-28 16:54:29.621 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@8a97527[MainActivity] of com.sr.openbyd
+05-28 16:54:29.726 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@a34a541[] of com.sr.openbyd
+05-28 16:54:31.268 D/ViewRootImpl[Всплывающее окно]( 4923): debug_draw draw for:uu0{8e96e4b V.E...... ......ID 0,0-352,384 #1020002 android:id/content} of com.sr.openbyd
+05-28 16:54:32.689 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@6e2001f[MainActivity] of com.sr.openbyd
+05-28 16:54:32.798 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@a34a541[] of com.sr.openbyd
+05-28 16:54:35.862 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@a34a541[] of com.sr.openbyd
+05-28 16:54:35.954 D/ViewRootImpl[Всплывающее окно]( 4923): debug_draw draw for:uu0{fbb6e7d V.E...... ......ID 0,0-352,384 #1020002 android:id/content} of com.sr.openbyd
+05-28 16:54:37.411 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@c72f1b1[MainActivity] of com.sr.openbyd
+05-28 16:54:38.543 D/ViewRootImpl[Всплывающее окно]( 4923): debug_draw draw for:uu0{2a762e6 V.E...... ......ID 0,0-352,384 #1020002 android:id/content} of com.sr.openbyd
+05-28 16:54:38.921 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@a34a541[] of com.sr.openbyd
+05-28 16:54:39.234 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@79ed431[MainActivity] of com.sr.openbyd
+05-28 16:54:40.632 D/ViewRootImpl[Всплывающее окно]( 4923): debug_draw draw for:uu0{55e38c7 V.E...... ......ID 0,0-352,384 #1020002 android:id/content} of com.sr.openbyd
+05-28 16:54:41.139 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@523e7c6[MainActivity] of com.sr.openbyd
+05-28 16:54:41.998 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@a34a541[] of com.sr.openbyd
+05-28 16:54:42.352 D/ViewRootImpl[Всплывающее окно]( 4923): debug_draw draw for:uu0{9d6c0fa V.E...... ......ID 0,0-352,384 #1020002 android:id/content} of com.sr.openbyd
+05-28 16:54:43.039 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@8e69715[MainActivity] of com.sr.openbyd
+05-28 16:54:44.241 D/ViewRootImpl[Всплывающее окно]( 4923): debug_draw draw for:uu0{a216a10 V.E...... ......ID 0,0-352,384 #1020002 android:id/content} of com.sr.openbyd
+05-28 16:54:44.864 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@53a04e3[MainActivity] of com.sr.openbyd
+05-28 16:54:45.002 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@a34a541[] of com.sr.openbyd
+05-28 16:54:48.329 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@53a04e3[MainActivity] of com.sr.openbyd
+05-28 16:54:51.338 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@53a04e3[MainActivity] of com.sr.openbyd
+05-28 16:54:54.344 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@53a04e3[MainActivity] of com.sr.openbyd
+05-28 16:54:57.349 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@53a04e3[MainActivity] of com.sr.openbyd
+05-28 16:55:00.358 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@53a04e3[MainActivity] of com.sr.openbyd
+05-28 16:55:03.365 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@53a04e3[MainActivity] of com.sr.openbyd
+05-28 16:55:04.838 D/ViewRootImpl[MainActivity]( 4923): debug_draw draw for:DecorView@a34a541[] of com.sr.openbyd
+05-28 22:02:05.687 D/ResourcesManager(  791): createResourcesForActivityLocked resourcesKey = ResourcesKey{ mHash=f724a46e mResDir=/data/app/~~bz_MGZFR7C4QPPzUNI_t7w==/com.sr.openbyd-OrNxA1XqZH36WSUkFewhUg==/base.apk mSplitDirs=[] mOverlayDirs=[/data/resource-cache/com.android.systemui-neutral-fa4U.frro,/data/resource-cache/com.android.systemui-accent-vamN.frro] mLibDirs=[] mDisplayId=0 mOverrideConfig=mcc250-mnc1-en-rUS-ldltr-sw720dp-w1280dp-h604dp-large-long-notround-nowidecg-highdr-land-night-hdpi-finger-keysexposed-nokeys-navhidden-nonav-v32 mCompatInfo={240dpi always-compat} mLoaders=[]} compatInfo.needsCompatResources() false
+05-28 22:02:05.697 D/ResourcesManager(  791): createResourcesForActivityLocked resourcesKey = ResourcesKey{ mHash=210f0e13 mResDir=/data/app/~~bz_MGZFR7C4QPPzUNI_t7w==/com.sr.openbyd-OrNxA1XqZH36WSUkFewhUg==/base.apk mSplitDirs=[] mOverlayDirs=[/data/resource-cache/com.android.systemui-neutral-fa4U.frro,/data/resource-cache/com.android.systemui-accent-vamN.frro] mLibDirs=[] mDisplayId=0 mOverrideConfig=mcc250-mnc1-ru-ldltr-sw720dp-w1280dp-h604dp-large-long-notround-nowidecg-highdr-land-night-hdpi-finger-keysexposed-nokeys-navhidden-nonav-v32 mCompatInfo={240dpi always-compat} mLoaders=[]} compatInfo.needsCompatResources() false
+05-28 22:02:05.854 D/ViewRootImpl[MainActivity](  791): debug_draw draw for:DecorView@fe103dc[MainActivity] of com.sr.openbyd
+05-28 22:02:07.395 V/ActivityThread(  791): scheduleBindService token=android.os.BinderProxy@a37f8d0 intent=Intent { cmp=com.sr.openbyd/.services.SteeringWheelAccessibilityService } uid=1000 pid=0
+05-28 22:02:07.398 V/ActivityThread(  791): handleBindService s=com.sr.openbyd.services.SteeringWheelAccessibilityService@8dfd2ef rebind=false
+05-28 22:02:08.873 D/ViewRootImpl[MainActivity](  791): debug_draw draw for:DecorView@fe103dc[MainActivity] of com.sr.openbyd
+05-28 22:02:10.768 D/ViewRootImpl[Всплывающее окно](  791): debug_draw draw for:uu0{8db582d V.E...... ......ID 0,0-352,384 #1020002 android:id/content} of com.sr.openbyd
+05-28 22:02:12.241 D/ViewRootImpl[MainActivity](  791): debug_draw draw for:DecorView@9f40cac[MainActivity] of com.sr.openbyd
+05-28 22:02:12.338 D/ViewRootImpl[MainActivity](  791): debug_draw draw for:DecorView@fe103dc[MainActivity] of com.sr.openbyd
+05-28 22:02:31.295 D/ViewRootImpl[MainActivity](  791): debug_draw draw for:DecorView@9f40cac[MainActivity] of com.sr.openbyd
+05-28 22:02:31.320 D/ViewRootImpl[MainActivity](  791): debug_draw draw for:DecorView@fe103dc[MainActivity] of com.sr.openbyd
+05-28 22:02:33.740 D/ViewRootImpl[Всплывающее окно](  791): debug_draw draw for:uu0{308dfe2 V.E...... ......ID 0,0-352,384 #1020002 android:id/content} of com.sr.openbyd
+05-28 22:02:34.501 D/ViewRootImpl[MainActivity](  791): debug_draw draw for:DecorView@fe103dc[MainActivity] of com.sr.openbyd
+05-28 22:02:34.609 D/ViewRootImpl[MainActivity](  791): debug_draw draw for:DecorView@1dcc228[MainActivity] of com.sr.openbyd
+05-28 22:02:35.988 V/ActivityThread(  791): scheduleBindService token=android.os.BinderProxy@ef191aa intent=Intent { act=android.service.notification.NotificationListenerService cmp=com.sr.openbyd/.services.HudNavigationListenerService } uid=1000 pid=0
+05-28 22:02:36.002 V/ActivityThread(  791): handleBindService s=com.sr.openbyd.services.HudNavigationListenerService@fae90e4 rebind=false
+05-28 22:02:38.078 D/ViewRootImpl[MainActivity](  791): debug_draw draw for:DecorView@1dcc228[MainActivity] of com.sr.openbyd
+05-28 22:03:02.381 D/ViewRootImpl[MainActivity](  791): debug_draw draw for:DecorView@1dcc228[MainActivity] of com.sr.openbyd
+05-28 22:03:02.404 D/ViewRootImpl[MainActivity](  791): debug_draw draw for:DecorView@fe103dc[MainActivity] of com.sr.openbyd
+05-28 22:03:21.473 D/ViewRootImpl[MainActivity](  791): debug_draw draw for:DecorView@1dcc228[MainActivity] of com.sr.openbyd
+05-28 22:03:21.514 D/ViewRootImpl[MainActivity](  791): debug_draw draw for:DecorView@fe103dc[MainActivity] of com.sr.openbyd
+05-28 22:12:49.361 D/ViewRootImpl[MainActivity](  791): debug_draw draw for:DecorView@1dcc228[MainActivity] of com.sr.openbyd
+05-28 22:12:49.382 D/ViewRootImpl[MainActivity](  791): debug_draw draw for:DecorView@fe103dc[MainActivity] of com.sr.openbyd
+05-28 22:12:53.345 D/ViewRootImpl[MainActivity](  791): debug_draw draw for:DecorView@1dcc228[MainActivity] of com.sr.openbyd
+05-28 22:13:00.854 D/ViewRootImpl[MainActivity](  791): debug_draw draw for:DecorView@1dcc228[MainActivity] of com.sr.openbyd
+05-29 09:37:07.377 E/com.sr.openbyd(18929): ANRSigQuitCallback::AddListener()
+05-29 09:37:07.378 E/com.sr.openbyd(18929): Not starting debugger since process cannot load the jdwp agent.
+05-29 09:37:07.381 D/ProcessState(18929): Binder ioctl to enable oneway spam detection failed: Invalid argument
+05-29 09:37:07.384 D/AnrLogger(18929): monitorLooper, thresholdMsg 100. thresholdMsgList 100.
+05-29 09:37:07.438 V/ActivityThread(18929): scheduleBindService token=android.os.BinderProxy@39d19df intent=Intent { act=android.service.notification.NotificationListenerService cmp=com.sr.openbyd/.services.HudNavigationListenerService } uid=1000 pid=0
+05-29 09:37:07.441 D/CompatibilityChangeReporter(18929): Compat change id reported: 171979766; UID 10150; state: ENABLED
+05-29 09:37:07.452 D/MWMG    (18929): getFeatureState state:2,processName:com.sr.openbyd
+05-29 09:37:07.452 D/MWMG    (18929): initialize mFeatureState:2,processName:com.sr.openbyd
+05-29 09:37:07.464 I/System.out(18929): HotFixRoot: /data/app/com.sr.openbyd.aG90Zml -> patchMetaFile:/data/app/com.sr.openbyd.aG90Zml/current.meta
+05-29 09:37:07.467 D/HotFix  (18929): com.sr.openbyd: resource hotfix not found!
+05-29 09:37:07.470 D/HotFix  (18929): com.sr.openbyd: installNativeLibraries hotfix not found!
+05-29 09:37:07.470 D/LoadedApk(18929): no hotfixNativeLibPaths found. 
+05-29 09:37:07.484 D/HotFix  (18929): com.sr.openbyd: installDexes hotfix -> /dex not found!
+05-29 09:37:07.484 D/HotFix  (18929): com.sr.openbyd: installNativeLibraries hotfix not found!
+05-29 09:37:07.508 I/Perf    (18929): Connecting to perf service.
+05-29 09:37:07.542 V/GraphicsEnvironment(18929): ANGLE Developer option for 'com.sr.openbyd' set to: 'default'
+05-29 09:37:07.545 V/GraphicsEnvironment(18929): ANGLE GameManagerService for com.sr.openbyd: false
+05-29 09:37:07.546 V/GraphicsEnvironment(18929): Updatable production driver is not supported on the device.
+05-29 09:37:07.555 D/NetworkSecurityConfig(18929): No Network Security Config specified, using platform default
+05-29 09:37:07.556 D/NetworkSecurityConfig(18929): No Network Security Config specified, using platform default
+05-29 09:37:07.636 V/ActivityThread(18929): handleBindService s=com.sr.openbyd.services.HudNavigationListenerService@e05330 rebind=false
+05-29 09:37:07.646 D/SharedPreferences_test(18929): laodFromDisk Finished: 18955
+05-29 09:37:07.688 V/ActivityThread(18929): scheduleBindService token=android.os.BinderProxy@649152e intent=Intent { cmp=com.sr.openbyd/.services.SteeringWheelAccessibilityService } uid=1000 pid=0
+05-29 09:37:07.690 W/System.err(18929): java.lang.SecurityException: No access to content://settings/system/byd_gesture_switch: Neither user 10150 nor current process has android.permission.INTERACT_ACROSS_USERS_FULL.
+05-29 09:37:07.691 W/System.err(18929): 	at android.os.Parcel.createExceptionOrNull(Parcel.java:2426)
+05-29 09:37:07.691 W/System.err(18929): 	at android.os.Parcel.createException(Parcel.java:2410)
+05-29 09:37:07.691 W/System.err(18929): 	at android.os.Parcel.readException(Parcel.java:2393)
+05-29 09:37:07.691 W/System.err(18929): 	at android.os.Parcel.readException(Parcel.java:2335)
+05-29 09:37:07.691 W/System.err(18929): 	at android.content.IContentService$Stub$Proxy.registerContentObserver(IContentService.java:1235)
+05-29 09:37:07.691 W/System.err(18929): 	at android.content.ContentResolver.registerContentObserver(ContentResolver.java:2675)
+05-29 09:37:07.691 W/System.err(18929): 	at android.accessibilityservice.AccessibilityService$SettingsObserver.<init>(AccessibilityService.java:2832)
+05-29 09:37:07.691 W/System.err(18929): 	at android.accessibilityservice.AccessibilityService.onCreate(AccessibilityService.java:2737)
+05-29 09:37:07.691 W/System.err(18929): 	at android.app.ActivityThread.handleCreateService(ActivityThread.java:4668)
+05-29 09:37:07.691 W/System.err(18929): 	at android.app.ActivityThread.access$1800(ActivityThread.java:272)
+05-29 09:37:07.691 W/System.err(18929): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2177)
+05-29 09:37:07.691 W/System.err(18929): 	at android.os.Handler.dispatchMessage(Handler.java:110)
+05-29 09:37:07.691 W/System.err(18929): 	at android.os.Looper.loopOnce(Looper.java:222)
+05-29 09:37:07.691 W/System.err(18929): 	at android.os.Looper.loop(Looper.java:313)
+05-29 09:37:07.691 W/System.err(18929): 	at android.app.ActivityThread.main(ActivityThread.java:8279)
+05-29 09:37:07.691 W/System.err(18929): 	at java.lang.reflect.Method.invoke(Native Method)
+05-29 09:37:07.691 W/System.err(18929): 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+05-29 09:37:07.691 W/System.err(18929): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1009)
+05-29 09:37:07.691 W/System.err(18929): Caused by: android.os.RemoteException: Remote stack trace:
+05-29 09:37:07.691 W/System.err(18929): 	at android.app.ContextImpl.enforce(ContextImpl.java:2203)
+05-29 09:37:07.691 W/System.err(18929): 	at android.app.ContextImpl.enforceCallingOrSelfPermission(ContextImpl.java:2231)
+05-29 09:37:07.691 W/System.err(18929): 	at com.android.server.content.ContentService.handleIncomingUser(ContentService.java:1322)
+05-29 09:37:07.691 W/System.err(18929): 	at com.android.server.content.ContentService.registerContentObserver(ContentService.java:350)
+05-29 09:37:07.691 W/System.err(18929): 	at android.content.IContentService$Stub.onTransact(IContentService.java:484)
+05-29 09:37:07.692 V/ActivityThread(18929): handleBindService s=com.sr.openbyd.services.SteeringWheelAccessibilityService@bb3e965 rebind=false
+05-29 09:37:07.709 D/HudNavListener(18929): HUD Navigation Listener Service connected.
+05-29 09:37:07.733 D/SharedPreferences_test(18929): laodFromDisk Finished: 18970
+05-29 09:37:07.736 D/SteeringWheelService(18929): Steering Wheel Accessibility Se
